@@ -12,9 +12,4 @@ if __name__ == '__main__':
 
 funcs.add_numbers(10, 2)
 
-
-
-
-
-
-
+funcs.difference_numbers(7, 5)
